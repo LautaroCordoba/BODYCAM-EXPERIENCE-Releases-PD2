@@ -8,18 +8,18 @@ BODYCAM EXPERIENCE is a bodycam-inspired first-person experience featuring indep
 
 The latest stable version is available from the **Releases** section of this repository.
 
-Download the `BODYCAM-X.X.X-release.zip` file from the latest release.
+Download the `BODYCAM-EXPERIENCE-X.X.X-release.zip` file from the latest release.
 
 ## Installation
 
 1. Make sure SuperBLT is installed.
-2. Download the latest `BODYCAM-X.X.X-release.zip`.
-3. Extract the `BODYCAM` folder into your PAYDAY 2 `mods` directory.
+2. Download the latest `BODYCAM-EXPERIENCE-X.X.X-release.zip`.
+3. Extract the `BODYCAM EXPERIENCE` folder into your PAYDAY 2 `mods` directory.
 4. Launch PAYDAY 2.
 
 The final installation should look like:
 
-`PAYDAY 2/mods/BODYCAM/`
+`PAYDAY 2/mods/BODYCAM EXPERIENCE/`
 
 ## Development History
 
