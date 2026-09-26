@@ -1,0 +1,12 @@
+BODYCAM 1.0.0
+Copyright (c) 2026 Brouken. All rights reserved.
+
+Permission is granted to download, install and use this mod in its unmodified
+form. Changing settings or key bindings through the provided controls is allowed.
+
+Modification, derivative works, redistribution and reuploading require prior
+written permission from Brouken. No other rights are granted.
+
+This mod is provided "as is", without warranties of any kind.
+PAYDAY 2 and SuperBLT belong to their respective owners. This notice applies
+only to the original BODYCAM code and materials.
